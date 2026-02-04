@@ -1,0 +1,50 @@
+.industry-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+  background: linear-gradient(135deg, var(--color-surface) 0%, #f8f8f8 100%);
+  border: 2px solid transparent;
+  transition: all var(--transition-base);
+}
+
+.industry-card:hover {
+  border-color: var(--color-primary);
+  background: linear-gradient(135deg, #ffffff 0%, var(--color-surface) 100%);
+}
+
+.industry-card__icon {
+  font-size: var(--font-size-4xl);
+  color: var(--color-primary);
+  margin-bottom: var(--spacing-md);
+}
+
+.industry-card__title {
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-bold);
+  margin-bottom: var(--spacing-sm);
+  color: var(--color-text-primary);
+}
+
+.industry-card__description {
+  flex: 1;
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  line-height: var(--line-height-relaxed);
+  margin-bottom: var(--spacing-md);
+}
+
+.industry-card__cta {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-primary);
+  transition: gap var(--transition-fast);
+}
+
+.industry-card:hover .industry-card__cta {
+  gap: var(--spacing-md);
+}

@@ -1,0 +1,70 @@
+.page-header {
+  background: linear-gradient(135deg, var(--color-dark) 0%, var(--color-primary-dark) 100%);
+  color: var(--color-light);
+  padding: var(--spacing-3xl) 0;
+  text-align: center;
+}
+
+.page-header h1 {
+  color: var(--color-light);
+  margin-bottom: var(--spacing-md);
+}
+
+.page-subtitle {
+  font-size: var(--font-size-lg);
+  color: rgba(254, 254, 254, 0.9);
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: var(--line-height-relaxed);
+}
+
+.services-intro {
+  max-width: 800px;
+  margin: 0 auto var(--spacing-3xl);
+  text-align: center;
+}
+
+.services-intro h2 {
+  margin-bottom: var(--spacing-lg);
+}
+
+.services-intro p {
+  font-size: var(--font-size-lg);
+  color: var(--color-text-secondary);
+  line-height: var(--line-height-relaxed);
+}
+
+.benefits-section {
+  background-color: #F9F9F9;
+}
+
+.benefits-section h2 {
+  margin-bottom: var(--spacing-3xl);
+}
+
+.benefits-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--spacing-xl);
+}
+
+.benefit-item {
+  text-align: center;
+  padding: var(--spacing-xl);
+}
+
+.benefit-icon {
+  font-size: var(--font-size-5xl);
+  margin-bottom: var(--spacing-md);
+}
+
+.benefit-item h3 {
+  font-size: var(--font-size-xl);
+  margin-bottom: var(--spacing-sm);
+  color: var(--color-text-primary);
+}
+
+.benefit-item p {
+  color: var(--color-text-secondary);
+  line-height: var(--line-height-relaxed);
+}
