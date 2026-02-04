@@ -19,7 +19,7 @@ const Header = () => {
             <div className="container">
                 <nav className="nav" role="navigation" aria-label="Main navigation">
                     <Link to="/" className="nav__logo">
-                        <img src="/images/ZillionInt_nobg.png" alt="Zillion International" className="nav__logo-img" />
+                        <img src="/images/ZillionInt_withbg.jpeg" alt="Zillion International" className="nav__logo-img" />
                     </Link>
 
                     <button
