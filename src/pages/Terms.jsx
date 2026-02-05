@@ -6,8 +6,8 @@ const Terms = () => {
     return (
         <>
             <SEO
-                title="Terms of Service - Zillion International"
-                description="Terms of Service for Zillion International. Read our terms and conditions for using our website and services."
+                title="Terms of Service - Zillion International (Pvt) Ltd"
+                description="Terms of Service for Zillion International (Pvt) Ltd. Read our terms and conditions for using our website and services."
                 keywords="terms of service, terms and conditions, legal, user agreement"
                 canonical="/terms"
             />
@@ -36,17 +36,17 @@ const Terms = () => {
                         <div className="legal-section">
                             <h2>2. Use of Services</h2>
                             <p>
-                                You agree to use the services provided by Zillion International only for the purposes that are permitted by (a) the Terms and (b) any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions.
+                                You agree to use the services provided by Zillion International (Pvt) Ltd only for the purposes that are permitted by (a) the Terms and (b) any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions.
                             </p>
                             <p>
-                                You agree not to access (or attempt to access) any of the Services by any means other than through the interface that is provided by Zillion International, unless you have been specifically allowed to do so in a separate agreement with Zillion International.
+                                You agree not to access (or attempt to access) any of the Services by any means other than through the interface that is provided by Zillion International (Pvt) Ltd, unless you have been specifically allowed to do so in a separate agreement with Zillion International (Pvt) Ltd.
                             </p>
                         </div>
 
                         <div className="legal-section">
                             <h2>3. Intellectual Property</h2>
                             <p>
-                                This site and its original content, features, and functionality are owned by Zillion International and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
+                                This site and its original content, features, and functionality are owned by Zillion International (Pvt) Ltd and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
                             </p>
                         </div>
 

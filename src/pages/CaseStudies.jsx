@@ -70,7 +70,7 @@ const CaseStudies = () => {
                         <p>
                             Our BPO services have helped companies reduce costs, improve customer satisfaction,
                             and scale operations efficiently. These case studies demonstrate the real-world impact
-                            of partnering with Zillion International for your outsourcing needs.
+                            of partnering with Zillion International (Pvt) Ltd for your outsourcing needs.
                         </p>
                     </div>
 

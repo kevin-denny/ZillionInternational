@@ -3,7 +3,7 @@
 export const generateOrganizationSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Zillion International",
+  "name": "Zillion International (Pvt) Ltd",
   "description": "Empowering Global Solutions provider serving USA, UK, and UAE markets with customer support, technical support, and back office outsourcing services.",
   "url": "https://www.zillioninternational.com",
   "logo": "https://www.zillioninternational.com/logo.png",
@@ -44,7 +44,7 @@ export const generateServiceSchema = (service) => ({
   "description": service.description,
   "provider": {
     "@type": "Organization",
-    "name": "Zillion International"
+    "name": "Zillion International (Pvt) Ltd"
   },
   "areaServed": ["US", "GB", "AE"],
   "serviceType": service.type
@@ -53,7 +53,7 @@ export const generateServiceSchema = (service) => ({
 export const generateLocalBusinessSchema = () => ({
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
-  "name": "Zillion International",
+  "name": "Zillion International (Pvt) Ltd",
   "image": "https://www.zillioninternational.com/logo.png",
   "description": "Empowering Global Solutions provider offering customer support, technical support, and back office outsourcing services.",
   "address": [
@@ -96,11 +96,11 @@ export const generateArticleSchema = (article) => ({
   "description": article.description,
   "author": {
     "@type": "Organization",
-    "name": "Zillion International"
+    "name": "Zillion International (Pvt) Ltd"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Zillion International",
+    "name": "Zillion International (Pvt) Ltd",
     "logo": {
       "@type": "ImageObject",
       "url": "https://www.zillioninternational.com/logo.png"

@@ -22,7 +22,7 @@ const About = () => {
 
             <section className="page-header">
                 <div className="container">
-                    <h1>About Zillion International</h1>
+                    <h1>About Zillion International (Pvt) Ltd</h1>
                     <p className="page-subtitle">
                         Your trusted partner for BPO and IT solutions across USA, UK, and UAE markets
                     </p>
@@ -35,7 +35,7 @@ const About = () => {
                         <div className="about-section">
                             <h2>Our Mission</h2>
                             <p>
-                                At Zillion International, our mission is to empower businesses across USA, UK, and UAE
+                                At Zillion International (Pvt) Ltd, our mission is to empower businesses across USA, UK, and UAE
                                 to achieve operational excellence through world-class BPO and IT solutions. We combine
                                 cutting-edge technology with human expertise to deliver outsourcing services that drive
                                 measurable business results.
@@ -45,7 +45,7 @@ const About = () => {
                         <div className="about-section">
                             <h2>Who We Are</h2>
                             <p>
-                                Founded with a vision to transform business operations globally, Zillion International
+                                Founded with a vision to transform business operations globally, Zillion International (Pvt) Ltd
                                 has grown into a leading BPO services provider trusted by Fortune 500 companies and
                                 fast-growing startups alike. With over 15 years of industry experience, we've successfully
                                 delivered outsourced customer support services, technical support, and back office solutions
@@ -110,7 +110,7 @@ const About = () => {
                     <div className="cta-box">
                         <h2>Partner With Us</h2>
                         <p>
-                            Join hundreds of companies that trust Zillion International for their BPO and IT needs.
+                            Join hundreds of companies that trust Zillion International (Pvt) Ltd for their BPO and IT needs.
                             Let's discuss how we can help your business grow.
                         </p>
                         <Link to="/contact">

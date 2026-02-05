@@ -6,8 +6,8 @@ const PrivacyPolicy = () => {
     return (
         <>
             <SEO
-                title="Privacy Policy - Zillion International"
-                description="Privacy Policy for Zillion International. Learn how we collect, use, and protect your personal information."
+                title="Privacy Policy - Zillion International (Pvt) Ltd"
+                description="Privacy Policy for Zillion International (Pvt) Ltd. Learn how we collect, use, and protect your personal information."
                 keywords="privacy policy, data protection, GDPR, personal information"
                 canonical="/privacy"
             />
@@ -29,7 +29,7 @@ const PrivacyPolicy = () => {
                         <div className="legal-section">
                             <h2>1. Introduction</h2>
                             <p>
-                                Welcome to Zillion International. We respect your privacy and are committed to protecting your personal data.
+                                Welcome to Zillion International (Pvt) Ltd. We respect your privacy and are committed to protecting your personal data.
                                 This privacy policy will inform you as to how we look after your personal data when you visit our website
                                 (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
                             </p>

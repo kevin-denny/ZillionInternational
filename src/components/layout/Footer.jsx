@@ -9,7 +9,7 @@ const Footer = () => {
             <div className="container">
                 <div className="footer__content">
                     <div className="footer__section">
-                        <h3 className="footer__title">Zillion International</h3>
+                        <h3 className="footer__title">Zillion International (Pvt) Ltd</h3>
                         <p className="footer__description">
                             Empowering Global Solutions provider serving USA, UK, and UAE markets with excellence in customer support, technical support, and back office outsourcing.
                         </p>
@@ -68,7 +68,7 @@ const Footer = () => {
                 </div>
 
                 <div className="footer__bottom">
-                    <p>&copy; {currentYear} Zillion International. All rights reserved.</p>
+                    <p>&copy; {currentYear} Zillion International (Pvt) Ltd. All rights reserved.</p>
                     <div className="footer__legal">
                         <Link to="/privacy">Privacy Policy</Link>
                         <Link to="/terms">Terms of Service</Link>

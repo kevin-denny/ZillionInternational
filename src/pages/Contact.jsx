@@ -11,7 +11,7 @@ const Contact = () => {
         <>
             <SEO
                 title="Contact Our BPO & IT Solutions Experts"
-                description="Contact Zillion International for BPO services, outsourced customer support, technical support outsourcing, and IT solutions."
+                description="Contact Zillion International (Pvt) Ltd for BPO services, outsourced customer support, technical support outsourcing, and IT solutions."
                 keywords="contact BPO company, outsourcing inquiry, BPO quote, IT solutions contact, customer support outsourcing"
                 canonical="/contact"
                 schema={localBusinessSchema}

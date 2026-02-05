@@ -134,7 +134,7 @@ const Home = () => {
             <section className="why-section section bg-light">
                 <div className="container">
                     <div className="section-header text-center">
-                        <h2>Why Choose Zillion International</h2>
+                        <h2>Why Choose Zillion International (Pvt) Ltd</h2>
                         <p className="section-subtitle">
                             Your trusted Empowering Global Solutions provider for USA, UK, and UAE markets
                         </p>
