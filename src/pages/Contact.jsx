@@ -42,8 +42,7 @@ const Contact = () => {
                             <div className="contact-details">
                                 <div className="contact-detail">
                                     <h3>Email</h3>
-                                    <p>info@zillioninternational.com</p>
-                                    <p>sales@zillioninternational.com</p>
+                                    <p>zillioninternationalbpo@gmail.com</p>
                                 </div>
 
                                 <div className="contact-detail">
@@ -53,7 +52,7 @@ const Contact = () => {
                                     <p>UAE: +971 (X) XXX XXXX</p>
                                 </div>
 
-                                <div className="contact-detail">
+                                {/* <div className="contact-detail">
                                     <h3>Locations</h3>
                                     <p><strong>USA Office</strong><br />
                                         [Address Line 1]<br />
@@ -66,7 +65,7 @@ const Contact = () => {
                                     <p><strong>UAE Office</strong><br />
                                         [Address Line 1]<br />
                                         [City, Emirates]</p>
-                                </div>
+                                </div> */}
 
                                 <div className="contact-detail">
                                     <h3>Business Hours</h3>
@@ -87,7 +86,7 @@ const Contact = () => {
                 </div>
             </section>
 
-            <section className="map-section section bg-light">
+            {/* <section className="map-section section bg-light">
                 <div className="container">
                     <h2 className="text-center">Our Global Presence</h2>
                     <p className="text-center section-subtitle">
@@ -98,7 +97,7 @@ const Contact = () => {
                         <p>USA • United Kingdom • United Arab Emirates</p>
                     </div>
                 </div>
-            </section>
+            </section> */}
         </>
     );
 };

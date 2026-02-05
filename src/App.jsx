@@ -9,6 +9,8 @@ import Industries from './pages/Industries';
 import About from './pages/About';
 import CaseStudies from './pages/CaseStudies';
 import Contact from './pages/Contact';
+import PrivacyPolicy from './pages/PrivacyPolicy';
+import Terms from './pages/Terms';
 import './styles/global.css';
 
 // Scroll to top on route change
@@ -50,6 +52,8 @@ function App() {
                             <Route path="/about" element={<About />} />
                             <Route path="/case-studies" element={<CaseStudies />} />
                             <Route path="/contact" element={<Contact />} />
+                            <Route path="/privacy" element={<PrivacyPolicy />} />
+                            <Route path="/terms" element={<Terms />} />
                             <Route path="*" element={<NotFound />} />
                         </Routes>
                     </main>

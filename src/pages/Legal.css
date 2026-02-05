@@ -1,0 +1,50 @@
+.legal-page {
+  padding-bottom: var(--spacing-4xl);
+}
+
+.legal-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.legal-section {
+  margin-bottom: var(--spacing-2xl);
+}
+
+.legal-section h2 {
+  font-size: var(--font-size-2xl);
+  color: var(--color-primary);
+  margin-bottom: var(--spacing-md);
+}
+
+.legal-section h3 {
+  font-size: var(--font-size-xl);
+  color: var(--color-text-primary);
+  margin-bottom: var(--spacing-sm);
+  margin-top: var(--spacing-lg);
+}
+
+.legal-section p {
+  margin-bottom: var(--spacing-md);
+  color: var(--color-text-secondary);
+  line-height: var(--line-height-relaxed);
+}
+
+.legal-section ul {
+  list-style-type: disc;
+  padding-left: var(--spacing-xl);
+  margin-bottom: var(--spacing-md);
+  color: var(--color-text-secondary);
+}
+
+.legal-section li {
+  margin-bottom: var(--spacing-xs);
+  line-height: var(--line-height-relaxed);
+}
+
+.legal-last-updated {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+  margin-top: var(--spacing-xl);
+  font-style: italic;
+}
