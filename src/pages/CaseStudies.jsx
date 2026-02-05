@@ -32,30 +32,6 @@ const CaseStudies = () => {
                 { value: '24/7', label: 'Global Coverage' }
             ]
         },
-        {
-            title: 'FinTech Startup Achieves Compliance with Back Office Outsourcing',
-            industry: 'FinTech',
-            challenge: 'A growing fintech company needed to scale their back office operations while maintaining strict regulatory compliance and data security standards.',
-            solution: 'Implemented PCI-DSS compliant back office outsourcing services including transaction processing, reconciliation, and customer verification. All processes were designed to meet financial industry regulations.',
-            results: 'Successfully processed 100K+ transactions monthly with 99.9% accuracy, passed all compliance audits, and reduced operational costs by 60% compared to in-house operations.',
-            metrics: [
-                { value: '100K+', label: 'Monthly Transactions' },
-                { value: '99.9%', label: 'Accuracy Rate' },
-                { value: '60%', label: 'Cost Savings' }
-            ]
-        },
-        {
-            title: 'Healthcare Provider Improves Patient Experience',
-            industry: 'Healthcare',
-            challenge: 'A multi-location healthcare provider was receiving complaints about long wait times for appointment scheduling and poor phone support experience.',
-            solution: 'Deployed HIPAA-compliant customer support team specializing in healthcare appointment scheduling, patient inquiries, and insurance verification with EHR system integration.',
-            results: 'Reduced average wait time from 8 minutes to under 2 minutes, increased appointment booking rate by 40%, and achieved 95% patient satisfaction scores.',
-            metrics: [
-                { value: '<2min', label: 'Wait Time' },
-                { value: '+40%', label: 'Booking Rate' },
-                { value: '95%', label: 'Patient Satisfaction' }
-            ]
-        }
     ];
 
     const articleSchemas = caseStudies.map(study => generateArticleSchema({

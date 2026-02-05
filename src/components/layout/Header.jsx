@@ -70,7 +70,7 @@ const Header = () => {
                                 About
                             </Link>
                         </li>
-                        <li className="nav__item">
+                        {/* <li className="nav__item">
                             <Link
                                 to="/case-studies"
                                 className={`nav__link ${isActive('/case-studies')}`}
@@ -78,7 +78,7 @@ const Header = () => {
                             >
                                 Case Studies
                             </Link>
-                        </li>
+                        </li> */}
                         <li className="nav__item nav__item--cta">
                             <Link
                                 to="/contact"

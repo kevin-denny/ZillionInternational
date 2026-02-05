@@ -7,18 +7,6 @@ const Industries = () => {
     const industries = [
         {
             icon: '',
-            title: 'Healthcare',
-            description: 'HIPAA-compliant BPO services for healthcare providers including patient support, appointment scheduling, medical billing, and claims processing.',
-            link: '/contact'
-        },
-        {
-            icon: '',
-            title: 'FinTech',
-            description: 'Secure financial services outsourcing for banking, insurance, and fintech companies with PCI-DSS compliance and fraud prevention expertise.',
-            link: '/contact'
-        },
-        {
-            icon: '',
             title: 'E-commerce',
             description: 'End-to-end e-commerce support including customer service, order processing, inventory management, and returns handling for online retailers.',
             link: '/contact'
@@ -92,13 +80,6 @@ const Industries = () => {
                             <p>
                                 Our teams are trained in industry-specific processes, terminology, and best practices
                                 to deliver expert support from day one.
-                            </p>
-                        </div>
-                        <div className="card">
-                            <h3>Compliance & Security</h3>
-                            <p>
-                                We maintain industry-specific certifications and compliance standards including HIPAA,
-                                PCI-DSS, GDPR, and SOC 2.
                             </p>
                         </div>
                         <div className="card">

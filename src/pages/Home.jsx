@@ -150,15 +150,8 @@ const Home = () => {
                         <div className="feature-card card">
                             <h3>Industry-Specific Solutions</h3>
                             <p>
-                                Specialized outsourcing services for Healthcare, FinTech, E-commerce, SaaS, Logistics,
+                                Specialized outsourcing services for E-commerce, SaaS, Logistics,
                                 and Real Estate industries with proven track records.
-                            </p>
-                        </div>
-                        <div className="feature-card card">
-                            <h3>Data Security & Compliance</h3>
-                            <p>
-                                ISO certified processes, GDPR compliant operations, and enterprise-grade security
-                                for your sensitive business data and customer information.
                             </p>
                         </div>
                         <div className="feature-card card">

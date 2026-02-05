@@ -41,8 +41,6 @@ const Footer = () => {
                     <div className="footer__section">
                         <h4 className="footer__heading">Industries</h4>
                         <ul className="footer__links">
-                            <li><Link to="/industries">Healthcare</Link></li>
-                            <li><Link to="/industries">FinTech</Link></li>
                             <li><Link to="/industries">E-commerce</Link></li>
                             <li><Link to="/industries">SaaS</Link></li>
                             <li><Link to="/industries">Logistics</Link></li>
@@ -54,7 +52,7 @@ const Footer = () => {
                         <h4 className="footer__heading">Company</h4>
                         <ul className="footer__links">
                             <li><Link to="/about">About Us</Link></li>
-                            <li><Link to="/case-studies">Case Studies</Link></li>
+                            {/* <li><Link to="/case-studies">Case Studies</Link></li> */}
                             <li><Link to="/contact">Contact</Link></li>
                         </ul>
                     </div>

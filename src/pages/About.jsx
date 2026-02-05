@@ -105,38 +105,6 @@ const About = () => {
                 </div>
             </section>
 
-            <section className="certifications-section section">
-                <div className="container">
-                    <h2 className="text-center">Certifications & Compliance</h2>
-                    <div className="certifications-grid">
-                        <div className="cert-item">
-                            <h3>ISO 9001:2015</h3>
-                            <p>Quality Management Systems</p>
-                        </div>
-                        <div className="cert-item">
-                            <h3>ISO 27001</h3>
-                            <p>Information Security</p>
-                        </div>
-                        <div className="cert-item">
-                            <h3>HIPAA</h3>
-                            <p>Healthcare Compliance</p>
-                        </div>
-                        <div className="cert-item">
-                            <h3>PCI-DSS</h3>
-                            <p>Payment Card Security</p>
-                        </div>
-                        <div className="cert-item">
-                            <h3>GDPR</h3>
-                            <p>Data Protection</p>
-                        </div>
-                        <div className="cert-item">
-                            <h3>SOC 2</h3>
-                            <p>Service Organization Controls</p>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
             <section className="cta-section section">
                 <div className="container">
                     <div className="cta-box">
