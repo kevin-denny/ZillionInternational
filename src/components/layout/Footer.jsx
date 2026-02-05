@@ -11,7 +11,7 @@ const Footer = () => {
                     <div className="footer__section">
                         <h3 className="footer__title">Zillion International</h3>
                         <p className="footer__description">
-                            Global BPO & IT Solutions provider serving USA, UK, and UAE markets with excellence in customer support, technical support, and back office outsourcing.
+                            Empowering Global Solutions provider serving USA, UK, and UAE markets with excellence in customer support, technical support, and back office outsourcing.
                         </p>
                         <div className="footer__social">
                             <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
@@ -62,9 +62,9 @@ const Footer = () => {
                     <div className="footer__section">
                         <h4 className="footer__heading">Contact</h4>
                         <ul className="footer__contact">
-                            <li>📧 info@zillioninternational.com</li>
-                            <li>📞 +1 (XXX) XXX-XXXX</li>
-                            <li>🌍 USA | UK | UAE</li>
+                            <li>info@zillioninternational.com</li>
+                            <li>+1 (XXX) XXX-XXXX</li>
+                            <li>USA | UK | UAE</li>
                         </ul>
                     </div>
                 </div>

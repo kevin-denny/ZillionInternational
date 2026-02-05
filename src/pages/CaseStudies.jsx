@@ -68,7 +68,7 @@ const CaseStudies = () => {
     return (
         <>
             <SEO
-                title="Case Studies - Proven BPO & IT Solutions Success Stories"
+                title="Case Studies - Proven Empowering Global Solutions Success Stories"
                 description="Real-world BPO success stories from USA, UK, and UAE clients. See how our outsourced customer support services and technical support solutions delivered measurable results."
                 keywords="BPO case studies, outsourcing success stories, customer support case studies, BPO ROI, outsourcing results"
                 canonical="/case-studies"

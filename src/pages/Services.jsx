@@ -9,37 +9,37 @@ import './Services.css';
 const Services = () => {
     const services = [
         {
-            icon: '🎧',
+            icon: '',
             title: 'Customer Support Outsourcing',
             description: 'Deliver exceptional customer experiences with our 24/7 multilingual support teams. Our outsourced customer support services include phone, email, chat, and social media support trained specifically for your industry and brand voice.',
             link: '/contact'
         },
         {
-            icon: '💻',
+            icon: '',
             title: 'Technical Support Services',
             description: 'Expert technical support outsourcing for software, hardware, and IT infrastructure. Our certified technicians provide L1, L2, and L3 support with rapid resolution times and comprehensive documentation.',
             link: '/contact'
         },
         {
-            icon: '📊',
+            icon: '',
             title: 'Back Office & Admin Outsourcing',
             description: 'Streamline your operations with our comprehensive back office outsourcing services including data entry, document processing, accounting support, HR administration, and workflow management.',
             link: '/contact'
         },
         {
-            icon: '⚙️',
+            icon: '',
             title: 'IT & Software Solutions',
             description: 'Custom software development, cloud migration, infrastructure management, and IT consulting services. We help businesses leverage technology for competitive advantage and operational efficiency.',
             link: '/contact'
         },
         {
-            icon: '📈',
+            icon: '',
             title: 'Lead Generation & Appointment Setting',
             description: 'Drive growth with targeted B2B lead generation, appointment setting, and sales support services. Our experienced teams help you fill your pipeline with qualified prospects.',
             link: '/contact'
         },
         {
-            icon: '📞',
+            icon: '',
             title: 'Inbound & Outbound Call Center',
             description: 'Professional call center services for inbound customer service, outbound sales, telemarketing, surveys, and market research. Scalable solutions for businesses of all sizes.',
             link: '/contact'
@@ -98,34 +98,24 @@ const Services = () => {
                     <h2 className="text-center">Benefits of Our BPO Services</h2>
                     <div className="benefits-grid">
                         <div className="benefit-item">
-                            <div className="benefit-icon">💰</div>
+                            <div className="benefit-icon"></div>
                             <h3>Cost Reduction</h3>
-                            <p>Save up to 60% on operational costs compared to in-house teams</p>
+                            <p>Save on operational costs compared to in-house teams</p>
                         </div>
                         <div className="benefit-item">
-                            <div className="benefit-icon">⚡</div>
+                            <div className="benefit-icon"></div>
                             <h3>24/7 Operations</h3>
                             <p>Round-the-clock support across all time zones</p>
                         </div>
                         <div className="benefit-item">
-                            <div className="benefit-icon">📈</div>
+                            <div className="benefit-icon"></div>
                             <h3>Scalability</h3>
                             <p>Easily scale up or down based on business demands</p>
                         </div>
                         <div className="benefit-item">
-                            <div className="benefit-icon">🎯</div>
+                            <div className="benefit-icon"></div>
                             <h3>Focus on Core Business</h3>
                             <p>Free up resources to focus on strategic initiatives</p>
-                        </div>
-                        <div className="benefit-item">
-                            <div className="benefit-icon">🏆</div>
-                            <h3>Quality Assurance</h3>
-                            <p>ISO-certified processes and continuous quality monitoring</p>
-                        </div>
-                        <div className="benefit-item">
-                            <div className="benefit-icon">🌐</div>
-                            <h3>Global Expertise</h3>
-                            <p>Experienced teams serving USA, UK, and UAE markets</p>
                         </div>
                     </div>
                 </div>

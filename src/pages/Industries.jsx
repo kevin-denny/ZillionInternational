@@ -6,37 +6,37 @@ import './Industries.css';
 const Industries = () => {
     const industries = [
         {
-            icon: '🏥',
+            icon: '',
             title: 'Healthcare',
             description: 'HIPAA-compliant BPO services for healthcare providers including patient support, appointment scheduling, medical billing, and claims processing.',
             link: '/contact'
         },
         {
-            icon: '💳',
+            icon: '',
             title: 'FinTech',
             description: 'Secure financial services outsourcing for banking, insurance, and fintech companies with PCI-DSS compliance and fraud prevention expertise.',
             link: '/contact'
         },
         {
-            icon: '🛒',
+            icon: '',
             title: 'E-commerce',
             description: 'End-to-end e-commerce support including customer service, order processing, inventory management, and returns handling for online retailers.',
             link: '/contact'
         },
         {
-            icon: '☁️',
+            icon: '',
             title: 'SaaS',
             description: 'Specialized support for SaaS companies including technical support, onboarding, customer success, and subscription management services.',
             link: '/contact'
         },
         {
-            icon: '🚚',
+            icon: '',
             title: 'Logistics',
             description: 'Supply chain and logistics BPO services including dispatch support, shipment tracking, carrier coordination, and customer notifications.',
             link: '/contact'
         },
         {
-            icon: '🏠',
+            icon: '',
             title: 'Real Estate',
             description: 'Real estate BPO services including lead qualification, appointment setting, property management support, and tenant communication.',
             link: '/contact'
@@ -88,28 +88,28 @@ const Industries = () => {
                     <h2 className="text-center">Why Industry Specialization Matters</h2>
                     <div className="grid grid-2">
                         <div className="card">
-                            <h3>🎯 Deep Domain Knowledge</h3>
+                            <h3>Deep Domain Knowledge</h3>
                             <p>
                                 Our teams are trained in industry-specific processes, terminology, and best practices
                                 to deliver expert support from day one.
                             </p>
                         </div>
                         <div className="card">
-                            <h3>📋 Compliance & Security</h3>
+                            <h3>Compliance & Security</h3>
                             <p>
                                 We maintain industry-specific certifications and compliance standards including HIPAA,
                                 PCI-DSS, GDPR, and SOC 2.
                             </p>
                         </div>
                         <div className="card">
-                            <h3>⚡ Faster Onboarding</h3>
+                            <h3>Faster Onboarding</h3>
                             <p>
                                 Industry experience means shorter training cycles and faster time-to-productivity
                                 for your outsourced teams.
                             </p>
                         </div>
                         <div className="card">
-                            <h3>💡 Best Practices</h3>
+                            <h3>Best Practices</h3>
                             <p>
                                 Benefit from proven processes and workflows refined through years of experience
                                 in your specific industry.

@@ -4,7 +4,7 @@ export const generateOrganizationSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Zillion International",
-  "description": "Global BPO & IT Solutions provider serving USA, UK, and UAE markets with customer support, technical support, and back office outsourcing services.",
+  "description": "Empowering Global Solutions provider serving USA, UK, and UAE markets with customer support, technical support, and back office outsourcing services.",
   "url": "https://www.zillioninternational.com",
   "logo": "https://www.zillioninternational.com/logo.png",
   "contactPoint": [
@@ -55,7 +55,7 @@ export const generateLocalBusinessSchema = () => ({
   "@type": "ProfessionalService",
   "name": "Zillion International",
   "image": "https://www.zillioninternational.com/logo.png",
-  "description": "BPO & IT Solutions provider offering customer support, technical support, and back office outsourcing services.",
+  "description": "Empowering Global Solutions provider offering customer support, technical support, and back office outsourcing services.",
   "address": [
     {
       "@type": "PostalAddress",

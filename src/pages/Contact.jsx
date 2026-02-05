@@ -10,8 +10,8 @@ const Contact = () => {
     return (
         <>
             <SEO
-                title="Contact Our BPO & IT Solutions Experts - USA, UK & UAE"
-                description="Contact Zillion International for BPO services, outsourced customer support, technical support outsourcing, and IT solutions. Serving USA, UK, and UAE markets."
+                title="Contact Our BPO & IT Solutions Experts"
+                description="Contact Zillion International for BPO services, outsourced customer support, technical support outsourcing, and IT solutions."
                 keywords="contact BPO company, outsourcing inquiry, BPO quote, IT solutions contact, customer support outsourcing"
                 canonical="/contact"
                 schema={localBusinessSchema}
@@ -41,20 +41,20 @@ const Contact = () => {
 
                             <div className="contact-details">
                                 <div className="contact-detail">
-                                    <h3>📧 Email</h3>
+                                    <h3>Email</h3>
                                     <p>info@zillioninternational.com</p>
                                     <p>sales@zillioninternational.com</p>
                                 </div>
 
                                 <div className="contact-detail">
-                                    <h3>📞 Phone</h3>
+                                    <h3>Phone</h3>
                                     <p>USA: +1 (XXX) XXX-XXXX</p>
                                     <p>UK: +44 (XX) XXXX XXXX</p>
                                     <p>UAE: +971 (X) XXX XXXX</p>
                                 </div>
 
                                 <div className="contact-detail">
-                                    <h3>🌍 Locations</h3>
+                                    <h3>Locations</h3>
                                     <p><strong>USA Office</strong><br />
                                         [Address Line 1]<br />
                                         [City, State ZIP]</p>
@@ -69,7 +69,7 @@ const Contact = () => {
                                 </div>
 
                                 <div className="contact-detail">
-                                    <h3>⏰ Business Hours</h3>
+                                    <h3>Business Hours</h3>
                                     <p>Monday - Friday: 9:00 AM - 6:00 PM</p>
                                     <p>Saturday: 10:00 AM - 4:00 PM</p>
                                     <p>Sunday: Closed</p>
@@ -94,7 +94,7 @@ const Contact = () => {
                         Serving clients across USA, UK, and UAE with local expertise and global capabilities
                     </p>
                     <div className="map-placeholder">
-                        <p>🗺️ Interactive Map Coming Soon</p>
+                        <p>Interactive Map Coming Soon</p>
                         <p>USA • United Kingdom • United Arab Emirates</p>
                     </div>
                 </div>

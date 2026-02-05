@@ -10,7 +10,7 @@ const SEO = ({
     schema
 }) => {
     const siteUrl = 'https://www.zillioninternational.com';
-    const fullTitle = title ? `Zillion International | ${title}` : 'Zillion International | Global BPO & IT Solutions';
+    const fullTitle = title ? `Zillion International | ${title}` : 'Zillion International | Empowering Global Solutions';
     const fullCanonical = canonical ? `${siteUrl}${canonical}` : siteUrl;
     const defaultImage = `${siteUrl}/og-image.jpg`;
 

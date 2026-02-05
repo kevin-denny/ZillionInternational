@@ -11,7 +11,7 @@ const About = () => {
     return (
         <>
             <SEO
-                title="About Us - Global BPO & IT Solutions Provider"
+                title="About Us - Empowering Global Solutions Provider"
                 description="Leading BPO and IT solutions provider serving USA, UK, and UAE markets. 15+ years of excellence in customer support outsourcing, technical support, and back office services."
                 keywords="BPO company, IT solutions provider, outsourcing company USA UK UAE, global BPO services"
                 canonical="/about"
@@ -70,7 +70,7 @@ const About = () => {
                     <h2 className="text-center">Our Core Values</h2>
                     <div className="values-grid">
                         <div className="value-card card">
-                            <div className="value-icon">🎯</div>
+                            <div className="value-icon"></div>
                             <h3>Excellence</h3>
                             <p>
                                 We strive for excellence in every interaction, delivering quality that exceeds
@@ -78,7 +78,7 @@ const About = () => {
                             </p>
                         </div>
                         <div className="value-card card">
-                            <div className="value-icon">🤝</div>
+                            <div className="value-icon"></div>
                             <h3>Integrity</h3>
                             <p>
                                 Transparency, honesty, and ethical practices form the foundation of all our
@@ -86,7 +86,7 @@ const About = () => {
                             </p>
                         </div>
                         <div className="value-card card">
-                            <div className="value-icon">💡</div>
+                            <div className="value-icon"></div>
                             <h3>Innovation</h3>
                             <p>
                                 We continuously invest in technology and process improvements to stay ahead
@@ -94,7 +94,7 @@ const About = () => {
                             </p>
                         </div>
                         <div className="value-card card">
-                            <div className="value-icon">🌟</div>
+                            <div className="value-icon"></div>
                             <h3>Customer Focus</h3>
                             <p>
                                 Our clients' success is our success. We tailor solutions to meet unique
