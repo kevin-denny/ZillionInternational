@@ -81,7 +81,7 @@ const PrivacyPolicy = () => {
                                 If you have any questions about this privacy policy or our privacy practices, please contact us at:
                             </p>
                             <p>
-                                Email: zillioninternationalbpo@gmail.com<br />
+                                Email: <a href="mailto:info@zillioninternational.org">info@zillioninternational.org</a><br />
                                 Address: [Your Business Address]
                             </p>
                         </div>

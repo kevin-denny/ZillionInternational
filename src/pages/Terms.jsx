@@ -74,7 +74,7 @@ const Terms = () => {
                         <div className="legal-section">
                             <h2>7. Contact Us</h2>
                             <p>
-                                If you have any questions about this Agreement, please contact us at zillioninternationalbpo@gmail.com.
+                                If you have any questions about this Agreement, please contact us at <a href="mailto:info@zillioninternational.org">info@zillioninternational.org</a>.
                             </p>
                         </div>
 

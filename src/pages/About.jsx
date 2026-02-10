@@ -33,16 +33,27 @@ const About = () => {
                 <div className="container">
                     <div className="about-content">
                         <div className="about-section">
-                            <h2>Our Mission</h2>
+                            <h2>Our Vision</h2>
                             <p>
-                                At Zillion International (Pvt) Ltd, our mission is to empower businesses across USA, UK, and UAE
-                                to achieve operational excellence through world-class BPO and IT solutions. We combine
-                                cutting-edge technology with human expertise to deliver outsourcing services that drive
-                                measurable business results.
+                                To be a globally trusted Business Process Outsourcing partner,
+                                setting the benchmark for scalable operations
+                                and service excellence and reliability
+                                while enabling organizations worldwide
+                                to grow with confidence and control.
                             </p>
                         </div>
 
                         <div className="about-section">
+                            <h2>Our Mission</h2>
+                            <p>
+                                To deliver secure outsourcing solutions that are reliable and
+                                built on trust, designed for scale,
+                                and executed with uncompromising excellence through advanced technology,
+                                creating lasting value for clients, partners and stakeholders.
+                            </p>
+                        </div>
+
+                        {/* <div className="about-section">
                             <h2>Who We Are</h2>
                             <p>
                                 Founded with a vision to transform business operations globally, Zillion International (Pvt) Ltd
@@ -60,7 +71,7 @@ const About = () => {
                                 time zones. We serve clients in USA, UK, and UAE markets with dedicated teams that understand
                                 local business culture, compliance requirements, and customer expectations.
                             </p>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </section>

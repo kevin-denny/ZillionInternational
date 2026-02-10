@@ -60,7 +60,7 @@ const Footer = () => {
                     <div className="footer__section">
                         <h4 className="footer__heading">Contact</h4>
                         <ul className="footer__contact">
-                            <li>zillioninternationalbpo@gmail.com</li>
+                            <li><a href="mailto:info@zillioninternational.org">info@zillioninternational.org</a></li>
                             <li>+1 (XXX) XXX-XXXX</li>
                             <li>USA | UK | UAE</li>
                         </ul>
