@@ -18,7 +18,7 @@ export const generateOrganizationSchema = () => ({
   ],
   "sameAs": [
     "https://www.linkedin.com/company/zillion-international",
-    "https://twitter.com/zillionintl"
+    "https://www.instagram.com/zillion_international?igsh=MXJmcDlydmRiaDMyMA=="
   ],
   "address": {
     "@type": "PostalAddress",
