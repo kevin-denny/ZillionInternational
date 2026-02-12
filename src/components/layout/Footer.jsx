@@ -61,7 +61,8 @@ const Footer = () => {
                         <h4 className="footer__heading">Contact</h4>
                         <ul className="footer__contact">
                             <li><a href="mailto:info@zillioninternational.org">info@zillioninternational.org</a></li>
-                            <li>+1 (XXX) XXX-XXXX</li>
+                            <li>Landline: 0117289893</li>
+                            <li>WhatsApp: +94766191941</li>
                             <li>USA | UK | UAE</li>
                         </ul>
                     </div>

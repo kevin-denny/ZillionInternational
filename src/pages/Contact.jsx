@@ -47,9 +47,8 @@ const Contact = () => {
 
                                 <div className="contact-detail">
                                     <h3>Phone</h3>
-                                    <p>USA: +1 (XXX) XXX-XXXX</p>
-                                    <p>UK: +44 (XX) XXXX XXXX</p>
-                                    <p>UAE: +971 (X) XXX XXXX</p>
+                                    <p><strong>Landline:</strong> <a href="tel:0117289893">0117289893</a></p>
+                                    <p><strong>WhatsApp:</strong> <a href="https://wa.me/94766191941" target="_blank" rel="noopener noreferrer">+94766191941</a></p>
                                 </div>
 
                                 {/* <div className="contact-detail">
